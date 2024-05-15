@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently a 3rd-year Computer Engineering Student, exploring the world of technology and looking forward to creating innovative solutions to real-world problems. Feel free to contact me on my available socials, nice to meet ya!</p>
+<p align="left">Currently an Undergraduate Computer Engineering Student, exploring the world of technology and looking forward to creating innovative solutions to real-world problems. Feel free to contact me on my available socials, nice to meet ya!</p>
 
 ###
 
